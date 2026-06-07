@@ -45,7 +45,7 @@ As I go, I’ll explore these one by one:
 - **Language:** C++  
 - **Editor:** VS Code  
 - **Compiler:** g++  
-- **Practice Platforms:** LeetCode | GFG | Codeforces  
+- **Practice Platforms:** LeetCode | GFG | Codeforces | W3Schools  
 
 ---
 
